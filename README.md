@@ -19,7 +19,7 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 ### 🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (3rd year)  
 ### 💻 Passionate about **Full Stack Development** with a focus on modern web technologies  
@@ -97,39 +97,30 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkolipakaace&hide=HTML&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkolipakaace&hide=HTML&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&background=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🎯 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" align="right">
 
 ### 🔭 Current Projects
-- 🌐 Building a full-stack e-commerce platform
-- 🤖 Developing an AI-powered chatbot
-- 📱 Creating a React Native mobile app
-- 🔍 Contributing to open-source projects
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+- 🌐 Building a full-stack e-commerce platform with React and Node.js
+- 🤖 Developing an AI-powered chatbot using Python and Flask
+- 📱 Creating a React Native mobile app for task management
+- 🔍 Contributing to open-source projects on GitHub
+- 📊 Working on data visualization projects with Python
 
 ### 🌱 Learning Journey
-- ⚛️ Advanced React patterns & Next.js
-- ☁️ AWS Cloud Architecture
-- 🐳 Docker & Kubernetes
-- 🔐 Cybersecurity fundamentals
+- ⚛️ Advanced React patterns & Next.js framework
+- ☁️ AWS Cloud Architecture and deployment strategies
+- 🐳 Docker containerization & Kubernetes orchestration
+- 🔐 Cybersecurity fundamentals and best practices
+- 🧠 Deep Learning with TensorFlow and PyTorch
 
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
@@ -143,30 +134,24 @@
 
 ### 🎯 2024 Goals Progress
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
 
 #### 💻 Technical Milestones
-- [x] Learn React & build 3 projects
-- [x] Master Git & GitHub workflows
-- [ ] Deploy apps to cloud platforms
-- [ ] Contribute to 5 open-source projects
-- [ ] Build a mobile app with React Native
+- [x] ✅ Learn React & build 3 projects
+- [x] ✅ Master Git & GitHub workflows  
+- [ ] 🚀 Deploy apps to cloud platforms
+- [ ] 🌟 Contribute to 5 open-source projects
+- [ ] 📱 Build a mobile app with React Native
+- [ ] 🤖 Complete 2 AI/ML projects
 
-</td>
-<td width="50%">
+#### 🚀 Career Goals  
+- [ ] 💼 Secure a software development internship
+- [ ] 🎨 Build a portfolio with 10+ projects
+- [ ] 🤝 Network with 50+ developers on LinkedIn
+- [ ] 📝 Start a tech blog/YouTube channel
+- [ ] 🎤 Speak at a tech meetup or conference
 
-#### 🚀 Career Goals
-- [ ] Secure a software development internship
-- [ ] Build a portfolio with 10+ projects
-- [ ] Network with 50+ developers
-- [ ] Start a tech blog/YouTube channel
-- [ ] Speak at a tech meetup
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 ---
 
