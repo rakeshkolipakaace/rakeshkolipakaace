@@ -102,27 +102,6 @@
 
 ---
 
-## 🎯 What I'm Up To
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" align="right">
-
-### 🔭 Current Projects
-- 🌐 Building a full-stack e-commerce platform with React and Node.js
-- 🤖 Developing an AI-powered chatbot using Python and Flask
-- 📱 Creating a React Native mobile app for task management
-- 🔍 Contributing to open-source projects on GitHub
-- 📊 Working on data visualization projects with Python
-
-### 🌱 Learning Journey
-- ⚛️ Advanced React patterns & Next.js framework
-- ☁️ AWS Cloud Architecture and deployment strategies
-- 🐳 Docker containerization & Kubernetes orchestration
-- 🔐 Cybersecurity fundamentals and best practices
-- 🧠 Deep Learning with TensorFlow and PyTorch
-
-<br clear="both">
-
----
 
 ## 🏆 Achievements & Goals
 
@@ -132,26 +111,6 @@
 
 </div>
 
-### 🎯 2024 Goals Progress
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
-
-#### 💻 Technical Milestones
-- [x] ✅ Learn React & build 3 projects
-- [x] ✅ Master Git & GitHub workflows  
-- [ ] 🚀 Deploy apps to cloud platforms
-- [ ] 🌟 Contribute to 5 open-source projects
-- [ ] 📱 Build a mobile app with React Native
-- [ ] 🤖 Complete 2 AI/ML projects
-
-#### 🚀 Career Goals  
-- [ ] 💼 Secure a software development internship
-- [ ] 🎨 Build a portfolio with 10+ projects
-- [ ] 🤝 Network with 50+ developers on LinkedIn
-- [ ] 📝 Start a tech blog/YouTube channel
-- [ ] 🎤 Speak at a tech meetup or conference
-
-<br clear="both">
 
 ---
 
@@ -163,13 +122,6 @@
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k56oq3tnp6krn2rzkgkjt67tfm&count=1&unique=true" alt="Spotify Recently Played" />
-</div>
-
----
 
 ## 💬 Let's Connect!
 
