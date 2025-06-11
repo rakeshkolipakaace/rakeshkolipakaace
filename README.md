@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Rakesh Kolipaka
+# 👋 Hello, I'm Rakesh
 
 <p align="center">
   <a href="https://git.io/typing-svg">
